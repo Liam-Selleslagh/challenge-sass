@@ -6,3 +6,10 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+
+#Liam{
+  color: blue;
+}
+#Liam :visited{
+  color: blue;
+}
